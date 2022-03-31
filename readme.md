@@ -4,10 +4,10 @@ Esse projeto é um bot que cria pins no seu perfil no Pinterest de forma automá
 
 ## Como utilizar:
 
-1. Instalar puppeteer.
+1. Instalar dependências.
 
     ```bash
-    npm i puppeteer
+    npm i
     ```
 
 2. Fazer login e após fechar a janela.
