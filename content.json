@@ -1,0 +1,16 @@
+{
+    "pins": [
+        {
+            "img": "caminho\\da\\imagem",
+            "title": "Titulo do pin",
+            "text": "Texto do pin",
+            "url": "google.com"
+        },
+        {
+            "img": "caminho\\da\\imagem",
+            "title": "Titulo do pin",
+            "text": "Texto do pin",
+            "url": "url para backlink"
+        }
+    ]
+}
